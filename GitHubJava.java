@@ -12,6 +12,9 @@ public class GitHubJava {
             case 7:
                 System.out.println("ты пошел в школу");
                 break;
+            case 18:
+                System.out.println("я закончил школу");
+                break;
         }
     }
 }
